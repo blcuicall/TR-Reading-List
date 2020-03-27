@@ -30,6 +30,7 @@ This is a text  readability reading list maintained by Beijing Language and Cult
 - Yu Qiaona. 2016.[Defining and Assessing Chinese Syntactic Complexity via TC-Units](<https://scholarspace.manoa.hawaii.edu/bitstream/10125/51627/1/2016-12-phd-yu.pdf>). *Doctor's thesis, University of Hawaii at Manoa*. 
 
 <h3 id="2.2">2.2 Research on Readability in Other Languages</h3>
+
 - Arthur C. Graesser, Danielle S. McNamara. 2004. [Coh-Metrix: Analysis of text on cohesion and language](<https://link.springer.com/content/pdf/10.3758%2FBF03195564.pdf>). *Behavior Research Methods, Instruments, & Computers*.
 - Arthur C. Graesser, Danielle S. McNamara. 2011. [Coh-Metrix: Providing multilevel analysis of text characteristic](<http://sage.cnpereading.com/paragraph/download/10.3102/0013189X11413260>). *Educational Researcher*.
 - Xiaofei Lu. 2010. [Automatic analysis of syntactic complexity in second language writing](<https://www.jbe-platform.com/docserver/fulltext/ijcl.15.4.02lu.pdf?expires=1561207415&id=id&accname=jbid110151&checksum=0E423CA22C4B7AAB06AEC4C0359EBEF9>). *International Journal of Corpus Linguistics*.
@@ -47,6 +48,7 @@ This is a text  readability reading list maintained by Beijing Language and Cult
 - Lijun Feng. 2010. [Automatic Readability Assessment](<https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=2964&context=gc_etds>). **Doctor's thesis, City University of New York*. 
 
 <h2 id="3">3. Readability Analysis Tools</h2>
+
 - Lu Xiaofei (2010). [Automatic analysis of syntactic complexity in second language writing](<https://www.jbe-platform.com/docserver/fulltext/ijcl.15.4.02lu.pdf?>). *International Journal of Corpus Linguistics*.
 
   ([Web-based L2 Syntactical Complexity Analyzer (L2SCA)](<https://aihaiyang.com/software/l2sca/>))
