@@ -76,5 +76,6 @@ This is a text  readability reading list maintained by Beijing Language and Cult
 - [汉语词法难度分级表](<http://mp.weixin.qq.com/s?__biz=MzA3NDc5NDMxNQ==&mid=2651263238&idx=1&sn=0b27ebba9737fdd58c5832b9fada2b8d&chksm=8489e522b3fe6c34f4d10a7ae8c236181f78f931f393f85a8a309076a8cf9640d370d99609a2&mpshare=1&scene=1&srcid=0627oBzCNe9U8x3Gk4meZC7d#rd>)
 
 - [汉语句法难度分级表](<http://mp.weixin.qq.com/s?__biz=MzA3NDc5NDMxNQ==&mid=2651263253&idx=1&sn=a7afb6b8c94a75d85c8dda3d7288afc1&chksm=8489e531b3fe6c278825eef19f4aef82a428c420199592c8c1ffd1bf07740c6ca89ea3ed555d&mpshare=1&scene=1&srcid=#rd?)
+
 - 国际汉语教师语法教学手册
 - 国际汉语教师中级语法教学手册
