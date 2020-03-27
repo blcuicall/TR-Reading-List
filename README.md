@@ -12,6 +12,7 @@ This is a text  readability reading list maintained by Beijing Language and Cult
 | 4 [Chinese Data Resources](#4)                         |
 
 <h2 id="1">1. Research Summary</h2>
+
 - Klare, G. R. (1974–1975). [Assessing readability](<https://scholar.google.com/scholar_url?url=https://www.jstor.org/stable/747086&hl=zh-TW&sa=T&oi=gsb&ct=res&cd=0&d=6838320539766870596&ei=-1t9Xoq9M8SBywSKyJqgDg&scisig=AAGBfm1iWtmdPfAMXqFhp5eCXdApCr8JfQ>). *Reading Research Quarterly*. 
 
 - 吴思远, 蔡建永, 于东, 江新. 2018. [文本可读性的自动分析研究综述](<https://www.researchgate.net/profile/Xin_Jiang26/publication/332834238_A_Survey_on_the_Automatic_Text_Readability_Measureswenbenkeduxingdezidongfenxiyanjiuzongshu/links/5ccc04ca299bf11c2a3d46f3/A-Survey-on-the-Automatic-Text-Readability-Measureswenbenkeduxingdezidongfenxiyanjiuzongshu.pdf>). *中文信息学报*.
@@ -22,6 +23,7 @@ This is a text  readability reading list maintained by Beijing Language and Cult
 
 <h2 id="2">2. Related Task</h2>
 <h3 id="2.1">2.1 Research on Chinese Readability</h3>
+
 - Yao-Ting Sung, Tao Hsing Chang. 2016. [CRIE: An automated analyzer for Chinese texts](<https://link.springer.com/content/pdf/10.3758%2Fs13428-015-0649-1.pdf>). *Behavior Research Methods*.
 - Yao-Ting Sung, Weic Lin, SB Dyson, Kuoen Chang. 2015. [Leveling L2 Texts Through Readability: Combining Multilevel Linguistic Features with the CEFR](<https://onlinelibrary.wiley.com/doi/epdf/10.1111/modl.12213>). **The Modern Language Journal*.
 - LAU Tak Pang. 2006. [Chinese Readability Analysis and its Applications on the Internet](<https://core.ac.uk/download/pdf/48538871.pdf>). *Master's thesis, The Chinese University of Hong Kong*. 
